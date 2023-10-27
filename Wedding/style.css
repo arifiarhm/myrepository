@@ -425,12 +425,12 @@ body {
 
 /* HP */
 @Media(max-width: 576px){
-    html{ 
+  html{ 
         font-size:50%;
     }
     .simply-countdown > .simply-section{
-        padding: 30px;
-        margin: 2px;
+        padding: 40px;
+        margin: 1px;
     }
 
     .timeline li .timeline-image{

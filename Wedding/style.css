@@ -426,7 +426,7 @@ body {
 /* HP */
 @Media(max-width: 576px){
     html{ 
-        font-size:40%;
+        font-size:50%;
     }
     .simply-countdown > .simply-section{
         padding: 30px;
